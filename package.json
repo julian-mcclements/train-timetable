@@ -1,0 +1,28 @@
+{
+  "name": "train-timetable",
+  "version": "1.0.0",
+  "description": "A solution for the \"Train Timetable\" problem in Google Code Jam 2008 qualification round",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian-mcclements/train-timetable.git"
+  },
+  "keywords": [
+    "Google",
+    "CodeJam"
+  ],
+  "author": "Julian Mcclements",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julian-mcclements/train-timetable/issues"
+  },
+  "homepage": "https://github.com/julian-mcclements/train-timetable#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "jasmine": "^3.4.0",
+    "moment": "^2.24.0"
+  }
+}
